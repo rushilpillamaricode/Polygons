@@ -1,2 +1,2 @@
 # shapes-turtle
-polygons
+Polygons
